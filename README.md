@@ -26,7 +26,7 @@ FMEX.com Miner. Fmex挂单挖矿程序，薅羊毛程序。
         "minimum_distance": 40,         #离盘口的最小距离，单位USD
         "guadan_max_count": 15,         #单方向挂单最大数量
 ```
-- *guadan_max_count 设置范围15-25，也就是说总挂单量在30-50左右差不多，minimum_distance 取决于行情波动大不大，一般35左右即可，volume越大越好，interval 2秒左右没问题。
+- *guadan_max_count 设置范围15-25，也就是说总挂单量在30-50左右差不多，minimum_distance 取决于行情波动大不大，一般35左右即可，volume越大越好，interval 2秒左右没问题。该程序目的是挂单避免成交，所以项目中并没有自动处理仓位代码。
 
 ## 运行
 - python3.7 fmex_guadan.py 
