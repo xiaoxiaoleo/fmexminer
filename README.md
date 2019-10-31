@@ -17,6 +17,16 @@ FMEX.com Miner. Fmex挂单挖矿程序，薅羊毛程序。
 
 }
 ```
+## 切换成生产环境
+```
+    conn_setting = {
+        "会话数": 3,
+        "服务器": "REAL", #REAL是生产环境 TESTNET是测试环境
+        "代理地址": "",
+        "代理端口": '',
+        "symbols":symbol
+    }
+```
 ## 配置挂单参数
 - 根据自己需求更改fmex_guadan.py
 ```angular2
