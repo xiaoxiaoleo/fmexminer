@@ -9,7 +9,7 @@ FMEX.com Miner. Fmex挂单挖矿程序，薅羊毛程序。
 2. pip install -r requirements.txt
 
 ## 配置FMEX的API KEY
-1. 将setting文件夹拷贝到$HOME目录下，在fmex_test.json里面配置自己的API KEY
+1. 将setting文件夹拷贝到$HOME目录下，并在setting/fmex_test.json里面配置自己的API KEY
 ```angular2
 {
         "ID": "这里填key",
