@@ -1,5 +1,5 @@
-# fmexminer
-FMEX.com Miner. Fmex挂单挖矿，薅羊毛程序。
+# Fmex Miner
+FMEX.com Miner. Fmex挂单挖矿程序，薅羊毛程序。
 
 ## 环境要求
 - Python3.7
