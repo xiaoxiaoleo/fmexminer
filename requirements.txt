@@ -1,0 +1,3 @@
+qdarkstyle
+requests
+websocket-client
