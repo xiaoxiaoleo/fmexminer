@@ -17,7 +17,7 @@ FMEX.com Miner. Fmex挂单挖矿程序，薅羊毛程序。
 
 }
 ```
-## 切换成生产环境
+## 切换成生产环境，编辑fmex_guadan.py
 ```
     conn_setting = {
         "会话数": 3,
